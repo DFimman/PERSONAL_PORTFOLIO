@@ -292,14 +292,14 @@ section {
   flex: 1;
   background: white;
   border-radius: 2rem;
-  border: rgb(55, 55, 55) 0.1rem solid;
+  border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
   text-align: center;
 }
 
 .section-container {
   gap: 4rem;
-  height: 80%;
+  height: 70%;
 }
 
 .section__pic-container {
@@ -427,6 +427,7 @@ article .icon {
 footer {
   height: 26vh;
   margin: 0 1 rem;
+  padding: 50px;
 }
 
 footer p {
